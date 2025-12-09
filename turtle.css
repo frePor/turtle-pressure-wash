@@ -173,16 +173,14 @@ button{
   }
 
 .buttonLinkServices{
-    display: grid;
-    width: 15%;
-    justify-content: center;
-    align-items: center;
+    display: inline-block;
     padding: 10px 20px;
     background-color: #284e13;
-    color: #FFFFFF;
+    color: #ffffff;
     text-decoration: none;
     border: none;
     border-radius: 10px;
+    margin-top: 1rem;
 }
 
 .buttonLink h3:hover{
