@@ -276,7 +276,10 @@ tr:nth-of-type(1){
 }
 
 .headingSection{
-    
+    display: block;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #284e13;
 }
 
 .paragraphSection{
