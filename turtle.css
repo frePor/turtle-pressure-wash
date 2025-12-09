@@ -284,9 +284,16 @@ tr:nth-of-type(1){
 
 .paragraphSection{
     display: block;
-    text-align: center;
-    margin-bottom: 2rem;
+    max-width: 900px;
+    margin: 0 auto 2rem;
+    padding: 0 1rem;
     color: #284e13;
+    line-height: 1.6;
+}
+
+.paragraphSection ul {
+    padding-left: 1.5rem;
+    list-style: disc;
 }
 
 .paragraphSection li{
