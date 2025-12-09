@@ -276,20 +276,13 @@ tr:nth-of-type(1){
 }
 
 .headingSection{
-    display: grid;
-    justify-content: left;
-    padding-left: 2em;
-    margin-left: auto;
-    margin-right: auto;
-    color: #284e13;
+    
 }
 
 .paragraphSection{
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
+    display: block;
+    text-align: center;
+    margin-bottom: 2rem;
     color: #284e13;
 }
 
